@@ -68,7 +68,6 @@ namespace VSKS
             "exit                                          -- exit\n"
             "help                                          -- show this help\n"
             "ls [EXTENSION-ID]                             -- list extensions or secrets\n"
-            "extensions                                    -- list all extensions\n"
             "keys <EXTENSION-ID>                           -- list keys for extension\n"
             "search <QUERY>                                -- search extensions and keys\n"
             "exists <EXTENSION-ID> <KEY>                   -- check if secret exists\n"
