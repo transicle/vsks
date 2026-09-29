@@ -37,7 +37,6 @@ vsks --help / -h                                    -- show this help message.
 exit                                         -- exit the program.
 help                                         -- show available commands.
 ls [EXTENSION-ID]                            -- list extensions or secrets.
-extensions                                   -- list all extensions.
 keys <EXTENSION-ID>                          -- list keys for an extension.
 search <QUERY>                               -- search extensions and keys.
 exists <EXTENSION-ID> <KEY>                  -- check whether a secret exists.
